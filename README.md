@@ -21,7 +21,8 @@ This program is a C# Console application for ATM with 4 choices:
 ### Visual
 
 * ATMSystem
-![img1](./img/ATMSystem.png)
+
+![pic](./img/ATMSystem.png)
 
 
 
