@@ -24,5 +24,39 @@ This program is a C# Console application for ATM with 4 choices:
 
 ![pic](./img/ATMSystem.png)
 
+* DepositPos
+![pic](./img/DepositPos.png)
+
+* DepositNeg
+![pic](./img/DepositNeg.png)
+
+* WithDrawPosValue
+![pic](./img/WithDrawPosValue.png)
+
+
+* WithdraeLarger
+![pic](./img/WithdraeLarger.png)
+
+* WithDrawNegValue
+![pic](./img/WithDrawNegValue.png)
+
+* ViewBalance
+![pic](./img/ViewBalance.png)
+
+* exit
+![pic](./img/exit.png)
+
+### Installation
+Install Visual Studio 2022 and .NET Core 5.00.
+
+### License
+This program's License is MIT.
+
+ 
+ 
+
+
+
+
 
 
