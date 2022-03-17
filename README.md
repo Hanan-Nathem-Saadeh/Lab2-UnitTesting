@@ -1,3 +1,4 @@
+
 # Lab2-UnitTesting
 
 ###  Name 
@@ -58,12 +59,6 @@ Install Visual Studio 2022 and .NET Core 5.00.
 
 ### License
 This program's License is MIT.
-
- 
- 
-
-
-
 
 
 
